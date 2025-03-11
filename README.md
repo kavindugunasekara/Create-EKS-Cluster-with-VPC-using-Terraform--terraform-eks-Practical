@@ -32,3 +32,15 @@ Run `terraform plan` to see the configuration it creates when executed.
 ### Finally, Apply terraform configuation to create EKS cluster with VPC 
 
 `terraform apply`
+
+![1tf init succesfully run](https://github.com/user-attachments/assets/b7f2a781-42bb-4ae5-82c5-70e23bb87dcd)
+
+![2every thing created true tf plan command](https://github.com/user-attachments/assets/7443765d-4b3b-4b57-8dbb-f02407f46334)
+![3successfully apply ](https://github.com/user-attachments/assets/4b7bd405-77f1-4438-8e04-5d82de0a980f)
+![4successfull create eks cluster](https://github.com/user-attachments/assets/6a4492e3-06e4-4ec5-b16c-57ecb34e7137)
+![5create node groups](https://github.com/user-attachments/assets/b0005cab-8bd1-477e-966a-f26b79bae3e2)
+![6auto scalling group](https://github.com/user-attachments/assets/31b46fdb-39bb-43f2-82e7-ca03b7ca1482)
+![9](https://github.com/user-attachments/assets/4d0c88b3-63f3-453b-8848-7f81b31377da)
+![10](https://github.com/user-attachments/assets/080a5423-eafd-415e-92c0-1cde9771556a)
+![11see all resource in cluster](https://github.com/user-attachments/assets/98e43a82-5905-4225-8bec-9211fdae8ee0)
+![12final part remove every thing](https://github.com/user-attachments/assets/8f966503-bf94-436f-bee7-f92287cbc509)
